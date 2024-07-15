@@ -3,6 +3,7 @@
 Data Engineering Project on NY Parking Violations (~50M) Data using Docker, Airflow, AWS, Snowflake, dbt, Tableau
 ![NYParkingViolationsArchitecture](https://github.com/user-attachments/assets/829d9a27-0975-4846-a2c2-029f9be0e780)
 
+Notes on the Project: https://grape-liquid-f37.notion.site/Data-Engineering-NYC-Parking-Violations-d7ab76c922d74d079c347888b62246f3
 
 # Data Engineering NYC Parking Violations
 
@@ -79,4 +80,4 @@ To set up the project, follow these steps:
 4. Access Tableau to create visualizations and reports based on the transformed data.
 
 ## Video Link
-Video Link: 
+Video Link: https://youtu.be/PNe9POTPx4I
