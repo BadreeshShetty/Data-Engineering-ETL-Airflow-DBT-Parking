@@ -1,13 +1,10 @@
 # Data Engineering NYC Parking Violations
 
 Data Engineering Project on NY Parking Violations (~50M) Data using Docker, Airflow, AWS, Snowflake, dbt, Tableau
+---
 ![NYParkingViolationsArchitecture](https://github.com/user-attachments/assets/829d9a27-0975-4846-a2c2-029f9be0e780)
 
-Notes on the Project: https://grape-liquid-f37.notion.site/Data-Engineering-NYC-Parking-Violations-d7ab76c922d74d079c347888b62246f3
-
-# Data Engineering NYC Parking Violations
-
-![Project Image](https://prod-files-secure.s3.us-west-2.amazonaws.com/3734dc46-05fd-47b0-a74f-9b3a0fc2df9a/15467553-4a9a-4865-a1f4-4b5f8dea7af6/Untitled.png)
+Notes on the Project: [Data Engineering NYC Parking Violations Notes](https://grape-liquid-f37.notion.site/Data-Engineering-NYC-Parking-Violations-d7ab76c922d74d079c347888b62246f3)
 
 This data engineering project involves processing and analyzing NYC parking violations data, which consists of approximately 50 million records. Below is a brief overview of the workflow and the steps involved.
 
