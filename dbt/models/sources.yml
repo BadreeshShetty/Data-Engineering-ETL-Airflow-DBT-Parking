@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: PARKING_SCHEMA
+    description: "Source data from the Parking Violations at NY"
+    database: PARKING_DB
+    schema: PARKING_SCHEMA
+    tables:
+      - name: PARKING_VIOLATIONS_2014
+        description: "Parking violations issued in 2014"
+      - name: PARKING_VIOLATIONS_2016
+        description: "Parking violations issued in 2016"
+      - name: PARKING_VIOLATIONS_2017
+        description: "Parking violations issued in 2017"
+      - name: PARKING_VIOLATIONS_2018
+        description: "Parking violations issued in 2018"
+      - name: PARKING_VIOLATIONS_2019
+        description: "Parking violations issued in 2019"
+      - name: PARKING_VIOLATIONS_CODE
+        description: "Parking violations code"

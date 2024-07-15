@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+Redundant/
+
+# Docker
+docker-compose.override.yml
+docker-compose.override.yaml
+*.log
+*.tmp
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+*.cover
+coverage.xml
+*.py,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Airflow
+airflow.cfg
+logs/
+dags/__pycache__/
+dags/*.pyc
+dags/*.pyo
+
+# AWS S3
+
+
+# Snowflake
+.snowflakeconn
+
+# DBT
+dbt_modules/
+logs/
+dbt_packages/
+
+# Tableau
+*.twb
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code
+.vscode/
+
+# General
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+~$*

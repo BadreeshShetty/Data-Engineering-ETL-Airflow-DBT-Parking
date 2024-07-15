@@ -1,0 +1,13 @@
+dbt_nyc_parking_violations:
+  outputs:
+    dev:
+      account: lv27483.us-east-2.aws
+      database: PARKING_DB
+      password: Mh04bs1272$
+      role: ACCOUNTADMIN
+      schema: PARKING_SCHEMA
+      threads: 1
+      type: snowflake
+      user: badreeshshetty
+      warehouse: PARKING_WAREHOUSE
+  target: dev
